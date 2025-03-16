@@ -2,7 +2,7 @@ unsigned long int freq;
 unsigned long int pwm;
 
 void setup(){
-  freq = 5000; // sets the PWM frequency (the higher the value, the lower the RPM, determined by experimental set: 3000, 5000, 9000)
+  freq = 5000; // sets the PWM frequency (the higher the value, the lower the RPM, need to be determined by experimental set: 3000, 5000, 9000)
   pwm = freq / 2;
 
   pinMode(9, OUTPUT);
