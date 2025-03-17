@@ -7,7 +7,7 @@
 ✔ 1 * npn 2n222* transistor  
 ✔ wires, connectors  
 
-Upload code to arduino via [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+Upload code to Arduino via [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
 ### 📌 Arduino is powered from fan terminal directly
 🔌 Black is GND  
